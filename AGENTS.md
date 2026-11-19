@@ -63,5 +63,6 @@
 - واجهة أو تجربة بصرية: `.agents/skills/ui-implementation/SKILL.md`
 - تخزين أو migration: `.agents/skills/database-migration/SKILL.md`
 - إصدار أو نشر: `.agents/skills/release-readiness/SKILL.md`
+- أندرويد أو إشعارات أصلية أو Google Play: `.agents/skills/android-release/SKILL.md`
 
 اقرأ ملف المهارة المناسب كاملًا عند الحاجة. لا تدّعِ أن مجرّد وجود ملفات Skills يعني أن كل بيئة أو وكيل حمّلها تلقائيًا؛ تحقق من دعم الأداة ومكان اكتشاف المهارات فيها.
