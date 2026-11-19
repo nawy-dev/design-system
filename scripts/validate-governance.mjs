@@ -17,6 +17,8 @@ const requiredFiles = [
   "DECISIONS/0001-default-stack.md",
   "DECISIONS/0002-icon-system.md",
   "DECISIONS/0003-local-first-data.md",
+  "DECISIONS/0005-android-capacitor-local-notifications.md",
+  "ANDROID-AND-PLAY.md",
   "assets/icons/README.md",
   "starter/react-vite/README.md",
   "starter/react-vite/template/package.json",
@@ -32,6 +34,7 @@ const skills = [
   "ui-implementation",
   "database-migration",
   "release-readiness",
+  "android-release",
 ];
 
 const errors = [];

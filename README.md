@@ -27,7 +27,8 @@
 2. [Engineering Standards](ENGINEERING-STANDARDS.md)
 3. [Architecture Reference](ARCHITECTURE.md)
 4. [Starter Template](starter/react-vite/README.md)
-5. [AI Guidelines](AI-GUIDELINES.md)
+5. [Android & Google Play](ANDROID-AND-PLAY.md) — مسار مجرَّب في Taqweem
+6. [AI Guidelines](AI-GUIDELINES.md)
 
 ## Automated checks
 
