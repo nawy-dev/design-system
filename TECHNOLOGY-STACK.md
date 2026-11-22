@@ -100,6 +100,10 @@
 - استخدم GitHub Actions لتشغيل typecheck وtests وbuild قبل النشر.
 - لا تضع مفاتيح سرية في كود المتصفح أو متغيرات `VITE_*`؛ هذه المتغيرات متاحة للعميل.
 
+## 8.1 Android
+
+لإصدار أندرويد: غلاف Capacitor حول تطبيق الويب نفسه، وفق [ADR 0005](DECISIONS/0005-android-capacitor-shell.md) و[patterns/android-capacitor-shell.md](patterns/android-capacitor-shell.md). لا تُنشئ مشروع أندرويد منفصلًا ولا تُرفع مجلد `android/`.
+
 ## 9. سياسة الإصدارات
 
 - لا تستخدم `latest` في package.json لمشروع إنتاجي.
